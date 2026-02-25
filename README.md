@@ -1,12 +1,14 @@
-# 👋 Bem-vindo ao meu GitHub!
+# Bem-vindo ao meu GitHub!
 
-## 👨‍💻 About Me
+## About Me
 
-Sou estudante de Data Science focado em análise de dados e aprendizado contínuo.
+I'm a Data Science student passionate about data analysis and technology.  
+I enjoy working with data to generate insights, support decision-making, and continuously improve my skills.
 
-Atualmente aprendendo:
+Currently learning and working with:
 
 - Python
+- Data Analysis
 - SQL
 - Machine Learning
 - Data Visualization
