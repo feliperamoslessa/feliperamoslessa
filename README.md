@@ -12,7 +12,8 @@ Currently learning and working with:
 - SQL
 - Machine Learning
 - Data Visualization
-
+- Pandas
+- NumPy
 ---
 
 ## 🚀 Skills and Tools
