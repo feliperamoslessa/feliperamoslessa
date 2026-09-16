@@ -1,122 +1,233 @@
 <div align="center">
 
-# 👋 Hi, I'm Felipe Ramos Lessa
+# Hi, I'm Felipe Ramos Lessa 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=750&lines=Data+Science+Student;Data+Engineering+%7C+Machine+Learning;Turning+Data+into+Insights;Building+Data+Pipelines+and+Analytics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=2F81F7&center=true&vCenter=true&width=900&lines=Data+Science+%26+Data+Engineering;Machine+Learning+%26+MLOps;Distributed+Data+Processing;Building+End-to-End+Data+Systems;From+Raw+Data+to+Production-Ready+Solutions" alt="Typing SVG" />
 
 <br/>
 
-`Data Science` • `Data Engineering` • `Machine Learning` • `Big Data` • `Cloud`
+`Data Science` • `Data Engineering` • `Machine Learning` • `MLOps` • `Big Data` • `Cloud`
+
+<br/>
+
+<a href="https://www.linkedin.com/in/feliperamoslessa/">
+  <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Ramos%20Lessa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:feliperamoslessa2603@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
 ```python
 felipe = {
     "role": "Data Science Student",
-    "interests": [
+
+    "focus": [
+        "Data Science",
         "Data Engineering",
         "Machine Learning",
         "Big Data",
-        "Cloud Computing",
-        "Data Analytics"
+        "Cloud Computing"
     ],
-    "currently_learning": [
-        "Apache Spark",
-        "PySpark",
-        "Databricks",
-        "Data Pipelines",
-        "Machine Learning"
+
+    "engineering_mindset": [
+        "Build reproducible data pipelines",
+        "Design reliable data workflows",
+        "Transform raw data into analytical products",
+        "Develop production-oriented ML solutions"
     ],
-    "goal": "Build scalable data solutions and turn data into insights"
+
+    "currently_exploring": [
+        "Distributed Systems",
+        "MLOps",
+        "Streaming Architectures",
+        "Data Quality & Observability",
+        "Cloud Data Architecture"
+    ]
 }
 ```
 
-I am a **Data Science student** interested in understanding the entire data lifecycle — from raw data ingestion and transformation to analytics, machine learning, and cloud solutions.
+I'm a **Data Science student** interested not only in building models, but in understanding the complete lifecycle of modern data and machine learning systems.
 
-I am currently building hands-on projects to strengthen my knowledge in **Data Engineering, Big Data, Machine Learning, and Cloud Computing**.
+My studies and projects explore the journey from **raw data ingestion and distributed processing** to analytics, machine learning, visualization, and cloud-based data solutions.
+
+I'm especially interested in developing the engineering foundations required to build **reproducible, scalable, reliable, and maintainable data products**.
 
 ---
 
-## ⚙️ Tech Stack
-
-### 🐍 Data Science & Machine Learning
+## 🧠 Data Science & Machine Learning
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
-</p>
 
-### ⚡ Data Engineering & Big Data
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" height="45"/>
-&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 </p>
 
-### ☁️ Cloud & Development
+**Core areas**
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker" height="45"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
+`Exploratory Data Analysis` • `Feature Engineering` • `Statistical Analysis` • `Supervised Learning` • `Unsupervised Learning` • `Model Evaluation` • `Data Visualization`
 
 ---
 
-## 📊 Data Journey
+## ⚡ Data Engineering & Big Data
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</p>
+
+**Engineering concepts**
+
+`ETL / ELT` • `Medallion Architecture` • `Lakehouse` • `Data Modeling` • `Data Quality` • `Schema Evolution` • `Batch Processing` • `Stream Processing` • `Pipeline Orchestration`
+
+---
+
+## 🗄️ Databases & Data Platforms
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="45"/>
+
+</p>
+
+`Relational Databases` • `NoSQL` • `SQL Analytics` • `Analytical Data Modeling`
+
+---
+
+## ☁️ Cloud & Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker" height="45"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</p>
+
+`Oracle Cloud Infrastructure` • `Git` • `GitHub` • `Docker` • `Cloud Computing`
+
+---
+
+## 🔬 Currently Deepening My Knowledge
+
+I'm currently expanding my knowledge beyond individual tools, focusing on how modern **data and machine learning systems are designed, evaluated, deployed, monitored, and maintained**.
+
+### 🧠 Advanced Machine Learning
+
+- Advanced feature engineering and feature selection
+- Hyperparameter optimization and cross-validation strategies
+- Ensemble methods and gradient boosting
+- Handling imbalanced datasets
+- Model interpretability and explainability
+- Time series modeling and forecasting
+- Dimensionality reduction and clustering
+- Statistical validation of machine learning experiments
+
+### ⚙️ MLOps & Production ML
+
+- Experiment tracking and model lifecycle management
+- Model versioning and reproducibility
+- Automated machine learning pipelines
+- Model serving and inference APIs
+- Data drift and model drift
+- Model performance monitoring
+- CI/CD concepts for machine learning systems
+- Feature stores and reusable ML features
+
+### 🏗️ Data Engineering & Distributed Systems
+
+- Distributed data processing with Apache Spark
+- Spark performance optimization and partitioning
+- Batch and streaming architectures
+- Event-driven data pipelines with Apache Kafka
+- Workflow orchestration with Apache Airflow
+- Lakehouse and Medallion architectures
+- Data modeling for analytical workloads
+- Data quality and observability
+- Schema evolution and incremental processing
+- Fault tolerance and scalable pipeline design
+
+### ☁️ Cloud & Data Architecture
+
+- Cloud-native data architectures
+- Data lakes and analytical storage
+- Containerized data workloads
+- Infrastructure as Code fundamentals
+- Scalable pipeline design
+- Data governance and lineage
+- Pipeline reliability and monitoring
+- Cost-aware cloud architecture
+
+---
+
+## 🔄 How I Think About Data
 
 ```text
-Raw Data
-   │
-   ▼
-[ Ingestion ]
-   │
-   ▼
-[ Processing ]
-   │
-   ├──── Python
-   ├──── PySpark
-   └──── SQL
-   │
-   ▼
-[ Data Engineering ]
-   │
-   ├──── Databricks
-   ├──── Apache Spark
-   └──── Delta Lake
-   │
-   ▼
-[ Analytics / Machine Learning ]
-   │
-   ▼
-Insights & Data Products
+                         RAW DATA
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │   INGESTION   │
+                    └───────┬───────┘
+                            │
+                            ▼
+              ┌─────────────────────────┐
+              │   DISTRIBUTED PROCESSING│
+              │                         │
+              │  Spark • PySpark • SQL │
+              └────────────┬────────────┘
+                           │
+                           ▼
+                 ┌─────────────────┐
+                 │ DATA ENGINEERING│
+                 │                 │
+                 │ ETL / ELT       │
+                 │ Lakehouse       │
+                 │ Data Quality    │
+                 │ Orchestration   │
+                 └────────┬────────┘
+                          │
+                 ┌────────┴────────┐
+                 │                 │
+                 ▼                 ▼
+          ┌─────────────┐   ┌─────────────┐
+          │  ANALYTICS  │   │ MACHINE     │
+          │             │   │ LEARNING    │
+          └──────┬──────┘   └──────┬──────┘
+                 │                 │
+                 └────────┬────────┘
+                          ▼
+                 ┌─────────────────┐
+                 │  DATA PRODUCTS  │
+                 │   & INSIGHTS    │
+                 └─────────────────┘
 ```
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -132,17 +243,31 @@ Insights & Data Products
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/feliperamoslessa/feliperamoslessa/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/feliperamoslessa/feliperamoslessa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/feliperamoslessa/feliperamoslessa/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/feliperamoslessa/feliperamoslessa/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-> Continuously learning and building projects across the modern data stack.
+## 🎯 Areas of Interest
+
+<div align="center">
+
+`Machine Learning` • `MLOps` • `Data Engineering`
+
+`Distributed Computing` • `Big Data` • `Data Architecture`
+
+`Streaming Systems` • `Cloud Computing` • `Data Analytics`
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -151,7 +276,7 @@ Insights & Data Products
 </a>
 
 <a href="mailto:feliperamoslessa2603@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-feliperamoslessa2603%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -160,8 +285,8 @@ Insights & Data Products
 
 <div align="center">
 
-### 💡 Data → Knowledge → Decisions
+### Data → Engineering → Intelligence → Impact
 
-![Profile Views](https://komarev.com/ghpvc/?username=feliperamoslessa&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=feliperamoslessa&style=for-the-badge&color=2F81F7" alt="Profile views"/>
 
 </div>
